@@ -1,2 +1,3 @@
 this is first feature of feature1 branch
 addig second line to local feature1
+add the second line in local main
